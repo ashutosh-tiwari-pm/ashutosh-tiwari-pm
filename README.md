@@ -27,7 +27,7 @@ I'm an AI PM with 13+ years shipping enterprise SaaS products. I've owned AI str
 
 ## What I'm Building
 
-### 🛡️ [Implify — AI Implementation Manager](https://github.com/ashutosh-tiwari-pm/ai-implementation-manager)
+### 🛡️ [Implify — AI Implementation Manager](https://github.com/ashutosh-tiwari-pm/implify)
 
 > AI-powered implementation planning for B2B SaaS teams
 
@@ -38,6 +38,22 @@ Enter a client name. Get a complete implementation plan — RACI matrix, risk re
 ```
 Stack: Vanilla JS · Supabase · Claude API · Vercel · pptxgenjs
 AI: 5 phases · 8 parallel Claude calls · structured JSON output
+```
+
+---
+
+### 📊 [Clarix — AI Growth Engine](https://github.com/ashutosh-tiwari-pm/clarix)
+
+> Turn customer data into revenue. In 8 minutes.
+
+Upload customer + transaction CSVs. Clarix runs 6 parallel AI analyses — RFM segmentation, upsell engine, cross-sell intelligence, churn prediction, loyalty analysis, and campaign playbooks. Includes a full Customer Data Platform with identity resolution, household graphing, and social intelligence.
+
+**[→ Try it live](https://clarix-nine.vercel.app)**
+
+```
+Stack: Vanilla JS · Supabase · Claude API · Chart.js · Papa Parse · Vercel
+AI: 6 parallel modules · configurable match rules · client-side data processing
+CDP: Identity resolution · Household graph · Social intelligence · AI Chart Assistant
 ```
 
 ---
@@ -75,7 +91,7 @@ Business             P&L · SaaS metrics · Market sizing · Competitive analysi
 
 ## Currently
 
-- 🔨 **Building** — Implify (live), AI Stakeholder Update Generator (next)
+- 🔨 **Building** — Implify (live) · Clarix (live) · AI Stakeholder Update Generator (next)
 - 📚 **Learning** — Agentic AI systems, MCP Servers, AI evaluation frameworks
 - 🎯 **Targeting** — Senior AI PM roles at global product companies (remote)
 - 📍 **Location** — Hyderabad, India · Available immediately
